@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+TV_lipreading.mp4 filter=lfs diff=lfs merge=lfs -text
